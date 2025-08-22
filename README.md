@@ -2,20 +2,11 @@
 
 AlgoNest is a full-stack trading and investment platform that provides users with tools for portfolio management, market analysis, and trading operations.
 
+> **Note:** The frontend code is maintained in a separate private repository for security reasons. This repository contains only the dashboard and backend components.
+
 ## Project Structure
 
-The project is divided into three main components:
-
-### 1. Frontend (`/frontend`)
-- Landing page and authentication interface
-- Built with React
-- Features:
-  - Home page
-  - About section
-  - Products overview
-  - Pricing information
-  - Support section
-  - User authentication (Login/Signup)
+The project is divided into two main components:
 
 ### 2. Dashboard (`/dashboard`)
 - Main trading interface
